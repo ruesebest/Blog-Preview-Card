@@ -33,14 +33,13 @@
 
 .learning {
     display: inline-block;
-    margin-top: 15px;
+    margin-top: 17px;
     background-color: hsl(47, 88%, 63%);
     padding: 5px 10px;
     border-radius: 4px;
 }
 
 .date {
-    font-weight: bold;
     margin-top: 15px;
     /* font-size: 12px; */
 }
@@ -48,7 +47,7 @@
 .mainBody>h3 {
     margin-top: 20px;
     font-weight: bolder;
-    font-size: 20px;
+    font-size: 22px;
 }
 
 .paragraph {
@@ -61,7 +60,7 @@
 
 .footer {
     display: flex;
-    margin-top: 15px;
+    margin-top: 18px;
     align-items: center;
     gap: 12px;
 }
